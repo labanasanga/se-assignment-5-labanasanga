@@ -9,10 +9,20 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+Open a Web browser
+Search Visual studio Code dowload
+Open The link and Click on the dowload for windows link
+Wait for dowload to complete
+Locate the dowloaded file under downloads and double click on it to install
+While instalation process proceeds click next on the prompts to proceed
+Click on the check box to accept the licence agreement then click next
+Choose the destination folder then click next
+Click install to finalize instalation process then lauch VS Code
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-
+Initial configuration to be set up are Themes,Font,Editor format, and terminal
+Extensions such as Python and JavaScript for language support are essential
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
